@@ -27,3 +27,5 @@ I've only really themed the elements I see the most, I'll probably add more as I
 ![theme1](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/1.png)
 
 ![theme2](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/2.png)
+
+![theme4](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/4.png)
