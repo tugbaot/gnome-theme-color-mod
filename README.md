@@ -1,5 +1,5 @@
 # gnome-theme-color-mod
- A simple gnome theme with an added script to quickly generate new color schemes.
+ A simple gnome theme with a bit of fancy gradient/transparency an added script to quickly generate new color schemes.
 
 ![theme3](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/3.png)
 
