@@ -14,7 +14,7 @@ COLOR2='rgba(111, 175, 176, 0.9)'
 The format is Red, Yellow, Green, Opacity. If you have an editor that recognises the code it should show you the color within the editor, else you can use Gimp, Krita or one of the many apps & websites that lets you pick colors.
 
 ## To modify the theme
-Once you've save the `colors.conf' file just run `./buildtheme.sh' within the theme directory, this creates and saves the theme.
+Once you've save the `colors.conf` file just run `./buildtheme.sh` within the theme directory, this creates and saves the theme.
 
 ## To apply the theme
 You can do it the long way (e.g. back into the Tweaks app) or simply press `ALT + F2` and in the little popup type `rt` and enter to reload the theme.
