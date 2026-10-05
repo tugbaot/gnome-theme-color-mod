@@ -9,7 +9,7 @@
  '''
 COLOR1='rgba(153, 124, 171, 0.7)'
 COLOR2='rgba(111, 175, 176, 0.9)'
-''
+'''
 
 The format is Red, Yellow, Green, Opacity. If you have an editor that recognises the code it should show you the color within the editor, else you can use Gimp, Krita or one of the many apps & websites that lets you pick colors.
 
