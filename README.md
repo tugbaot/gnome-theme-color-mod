@@ -1,6 +1,8 @@
 # gnome-theme-color-mod
  A simple gnome theme with an added script to quickly generate new color schemes.
 
+![theme3](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/3.png)
+
 ## Install
  To install, just download the zip and unpack to  `~/.themes`. Then just select the gnome shell theme in the normal way (e.g. using the Tweaks app)
 
@@ -22,3 +24,6 @@ You can do it the long way (e.g. back into the Tweaks app) or simply press `ALT 
 ## Next?
 I've only really themed the elements I see the most, I'll probably add more as I come across them.
 
+![theme1](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/1.png)
+
+![theme2](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/2.png)
