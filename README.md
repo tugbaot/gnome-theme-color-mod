@@ -1,5 +1,5 @@
 # gnome-theme-color-mod
- A simple gnome theme with an added script to quickly generate new color schemes.
+ A simple gnome theme with a bit of fancy gradient/transparency an added script to quickly generate new color schemes for the gradient.
 
 ![theme3](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/3.png)
 
@@ -22,7 +22,7 @@ Once you've save the `colors.conf` file just run `./buildtheme.sh` within the th
 You can do it the long way (e.g. back into the Tweaks app) or simply press `ALT + F2` and in the little popup type `rt` and enter to reload the theme.
 
 ## Next?
-I've only really themed the elements I see the most, I'll probably add more as I come across them.
+I've only really themed the elements I see the most (quick settings, calendar, panel menus, OSD and general popups). I'll probably add more as I come across them.
 
 ![theme1](https://github.com/tugbaot/gnome-theme-color-mod/blob/main/pics/1.png)
 
